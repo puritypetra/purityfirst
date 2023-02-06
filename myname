@@ -1,0 +1,11 @@
+fun main() {
+    println(displayname(""))
+}
+fun displayname(name:String):String{
+    
+    var name:String = "Purity" 
+   
+    
+    return "$name"
+    
+}
